@@ -1,0 +1,15 @@
+{
+  "compiled_paths": [
+    "C/Users/tauche/git/verification/jdb/src/asm/startup_SLE9x.s",
+    "C/Users/tauche/git/verification/jdb/src/c/system_SLE90.c",
+    "C/Users/tauche/git/verification/jdb/src/c/system_m9900_usermailbox.h",
+    "C/Users/tauche/git/verification/jdb/tests/SLE90/tools/fausi/python_elf_test/src/main.c",
+    "C/keil/ARM/ARMCC/include/stdint.h",
+    "C/keil/ARM/Inc/Infineon/SLE90/FW_M9900_A22.h"
+  ],
+  "included_paths": [
+    "C/Users/tauche/git/verification/jdb/src/c/system_SLE90.c",
+    "C/keil/ARM/ARMCC/include/stdint.h",
+    "C/keil/ARM/Inc/Infineon/SLE90/FW_M9900_A22.h"
+  ]
+}

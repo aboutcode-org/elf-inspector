@@ -1,0 +1,35 @@
+{
+  "compiled_paths": [
+    "usr/src/debug/ImageMagick-6.7.5-6/filters/analyze.c"
+  ],
+  "included_paths": [
+    "filters/analyze.c",
+    "magick/cache-view.h",
+    "magick/color.h",
+    "magick/colorspace.h",
+    "magick/composite.h",
+    "magick/compress.h",
+    "magick/exception.h",
+    "magick/gem.h",
+    "magick/geometry.h",
+    "magick/image.h",
+    "magick/layer.h",
+    "magick/list.h",
+    "magick/locale_.h",
+    "magick/magick-type.h",
+    "magick/monitor.h",
+    "magick/pixel.h",
+    "magick/profile.h",
+    "magick/property.h",
+    "magick/quantum.h",
+    "magick/resample.h",
+    "magick/semaphore.h",
+    "magick/timer.h",
+    "usr/include/assert.h",
+    "usr/include/bits/mathcalls.h",
+    "usr/include/bits/types.h",
+    "usr/include/libio.h",
+    "usr/include/stdio.h",
+    "usr/lib/gcc/armv5tel-redhat-linux-gnueabi/4.7.0/include/stddef.h"
+  ]
+}

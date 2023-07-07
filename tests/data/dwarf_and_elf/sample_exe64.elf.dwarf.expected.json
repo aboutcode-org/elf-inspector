@@ -1,0 +1,22 @@
+[
+  [
+    "compiled_path",
+    "/usr/src/packages/BUILD/glibc-2.11.1/csu/../sysdeps/x86_64/elf/start.S"
+  ],
+  [
+    "compiled_path",
+    "/usr/src/packages/BUILD/glibc-2.11.1/csu/init.c"
+  ],
+  [
+    "compiled_path",
+    "/tmp/ebenders/z.c"
+  ],
+  [
+    "compiled_path",
+    "/usr/src/packages/BUILD/glibc-2.11.1/csu/elf-init.c"
+  ],
+  [
+    "included_path",
+    "/usr/lib64/gcc/x86_64-suse-linux/4.3/include/stddef.h"
+  ]
+]

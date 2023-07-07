@@ -1,0 +1,12 @@
+{
+  "compiled_paths": [
+    "tmp/foo/compressed.c"
+  ],
+  "included_paths": [
+    "usr/include/bits/sys_errlist.h",
+    "usr/include/bits/types.h",
+    "usr/include/libio.h",
+    "usr/include/stdio.h",
+    "usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/include/stddef.h"
+  ]
+}

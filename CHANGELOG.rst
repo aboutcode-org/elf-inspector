@@ -2,7 +2,11 @@ Changelog
 =========
 
 
-v0.0.0
+v0.0.1
 ------
 
-*xxxx-xx-xx* -- Initial release.
+Initial release with basic support to collect
+ - DWARF debug sections compilation unit paths.
+ - ELF dependencies
+
+Available as ScanCode Toolkit plugin.

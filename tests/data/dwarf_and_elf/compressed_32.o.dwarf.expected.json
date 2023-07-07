@@ -1,0 +1,26 @@
+[
+  [
+    "compiled_path",
+    "/tmp/foo/compressed.c"
+  ],
+  [
+    "included_path",
+    "/usr/lib/gcc/x86_64-pc-linux-gnu/7.1.1/include/stddef.h"
+  ],
+  [
+    "included_path",
+    "/usr/include/bits/types.h"
+  ],
+  [
+    "included_path",
+    "/usr/include/libio.h"
+  ],
+  [
+    "included_path",
+    "/usr/include/stdio.h"
+  ],
+  [
+    "included_path",
+    "/usr/include/bits/sys_errlist.h"
+  ]
+]

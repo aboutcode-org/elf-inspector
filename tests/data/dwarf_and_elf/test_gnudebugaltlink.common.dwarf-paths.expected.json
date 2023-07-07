@@ -1,0 +1,14 @@
+{
+  "compiled_paths": [],
+  "included_paths": [
+    "dotdot/bits/sockaddr.h",
+    "dotdot/bits/stdint-intn.h",
+    "dotdot/bits/stdint-uintn.h",
+    "dotdot/csu/abi-note.c",
+    "dotdot/elf/elf.h",
+    "dotdot/inet/netinet/in.h",
+    "dotdot/posix/bits/types.h",
+    "dotdot/sysdeps/unix/sysv/linux/bits/socket.h",
+    "usr/include/linux/rseq.h"
+  ]
+}

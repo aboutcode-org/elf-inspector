@@ -1,0 +1,18 @@
+{
+  "compiled_paths": [
+    "usr/src/debug/autotalent-0.2/autotalent.c",
+    "usr/src/debug/autotalent-0.2/mayer_fft.c"
+  ],
+  "included_paths": [
+    "usr/include/bits/math-finite.h",
+    "usr/include/bits/mathcalls.h",
+    "usr/include/bits/string3.h",
+    "usr/include/bits/types.h",
+    "usr/include/ladspa.h",
+    "usr/include/libio.h",
+    "usr/include/stdio.h",
+    "usr/include/stdlib.h",
+    "usr/lib/gcc/ppc64-redhat-linux/4.7.0/include/stddef.h",
+    "usr/src/debug/autotalent-0.2/mayer_fft.h"
+  ]
+}

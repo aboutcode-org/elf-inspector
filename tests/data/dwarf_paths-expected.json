@@ -1,0 +1,15 @@
+{
+  "files": [
+    {
+      "path": "exe_solaris32_cc.elf",
+      "type": "file",
+      "dwarf_source_paths": {
+        "compiled_paths": [
+          "home/yann/devel/pyelftools/test/testfiles/exe_solaris64.elf.c"
+        ],
+        "included_paths": []
+      },
+      "scan_errors": []
+    }
+  ]
+}

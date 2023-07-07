@@ -1,0 +1,16 @@
+{
+  "compiled_paths": [
+    "usr/src/debug/glibc/csu/init.c",
+    "usr/src/debug/glibc/sysdeps/x86/abi-note.c"
+  ],
+  "included_paths": [
+    "usr/src/debug/glibc/bits/sockaddr.h",
+    "usr/src/debug/glibc/bits/stdint-intn.h",
+    "usr/src/debug/glibc/bits/stdint-uintn.h",
+    "usr/src/debug/glibc/csu/abi-note.c",
+    "usr/src/debug/glibc/elf/elf.h",
+    "usr/src/debug/glibc/inet/netinet/in.h",
+    "usr/src/debug/glibc/posix/bits/types.h",
+    "usr/src/debug/glibc/sysdeps/unix/sysv/linux/bits/socket.h"
+  ]
+}
