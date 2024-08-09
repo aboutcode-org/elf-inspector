@@ -4,7 +4,7 @@
 # ScanCode is a trademark of nexB Inc.
 # SPDX-License-Identifier: Apache-2.0
 # See http://www.apache.org/licenses/LICENSE-2.0 for the license text.
-# See https://github.com/nexB/elf-inspector for support or download.
+# See https://github.com/aboutcode-org/elf-inspector for support or download.
 # See https://aboutcode.org for more information about nexB OSS projects.
 #
 
@@ -24,7 +24,8 @@ class DwarfScanner(ScanPlugin):
     Scan a dwarf infos for URLs.
     """
 
-    resource_attributes = dict(dwarf_source_paths=attr.ib(default=attr.Factory(dict), repr=False))
+    resource_attributes = dict(dwarf_source_paths=attr.ib(
+        default=attr.Factory(dict), repr=False))
 
     options = [
         PluggableCommandLineOption(

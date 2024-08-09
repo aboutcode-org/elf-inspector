@@ -1,6 +1,10 @@
 Changelog
 =========
 
+v0.0.2
+------
+
+- Update link references of ownership from nexB to aboutcode-org
 
 v0.0.1
 ------
