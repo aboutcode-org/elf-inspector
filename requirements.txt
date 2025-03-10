@@ -1,4 +1,5 @@
 pyelftools==0.29
+bids-analyser==0.2.0
 
 attrs==22.1.0
 banal==1.0.6
