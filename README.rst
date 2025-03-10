@@ -5,6 +5,9 @@ elf-inspector is a set of utilities to inspect binary ELF files and collect
 interesting data from them. This is also a ScanCode-toolkit plugin
 and is also designed to work integrated in ScanCode.io for binary analysis.
 
+This library uses:
+- [pyelftools](https://github.com/eliben/pyelftools)
+- [bids-analyser](https://github.com/APH10/BIDS)
 
 To install and use:
 
@@ -13,8 +16,8 @@ To install and use:
 
     --dwarf           Collect source code path from compilation units found in
                       ELF DWARFs.
-    --elf             Collect dependent library names needed by an ELF binary
-                      file.
+    --elf             Collect symbols and required dependent library names from
+                      an ELF binary file.
 
 - Use with ``scancode --json-pp - --dwarf --elf --verbose <PATH to a tree or file with ELF binaries>``
 
