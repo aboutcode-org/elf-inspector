@@ -54,6 +54,7 @@ def scan_elf_symbols_needed_library(location, **kwargs):
         elf_symbols: list of binary symbols collected from the elf binary file
     """
 
-    results = list(get_elf_dependencies(location))
-    symbols = collect_and_parse_elf_symbols(location)
-    return dict(elf_dependencies=results, elf_symbols=symbols)
+    dependencies = list(get_elf_dependencies(location))
+    elf_data = collect_and_parse_elf_symbols(location)
+    elf_data["elf_dependencies"] = dependencies
+    return elf_data

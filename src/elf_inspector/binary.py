@@ -33,4 +33,4 @@ def collect_and_parse_elf_symbols(location, include_stdlib=False, sort_symbols=T
     if sort_symbols:
         elf_symbols = sorted(elf_symbols)
 
-    return elf_symbols
+    return {"elf_symbols": elf_symbols}
