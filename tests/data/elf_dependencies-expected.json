@@ -6,6 +6,7 @@
       "elf_dependencies": [
         "libc.so.1"
       ],
+      "elf_symbols": [],
       "scan_errors": []
     }
   ]

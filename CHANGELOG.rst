@@ -1,6 +1,13 @@
 Changelog
 =========
 
+v0.0.3
+------
+
+- Collect binary symbols from ELF binaries using BIDS
+  https://pypi.org/project/bids-analyser/0.2.0/
+  Also make this available in the scancode-toolkit plugin ``--elf``.
+
 v0.0.2
 ------
 
